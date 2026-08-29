@@ -11,7 +11,23 @@
 
 ## 使用 AI 创建 Unreal 游戏
 
-想更快开始 Unreal 游戏原型开发？试试 [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game)。
+想更快制作原生 Unreal 游戏原型？SeeleAI 的 Seele Agent 可以将自然语言想法转化为浏览器中的可编辑 Unreal Engine 5 工程。
+
+- 🧠 用自然语言描述游戏类型、场景、玩法机制或视觉方向，再通过 AI 生成的起始提示词塑造工程。
+- 🏗️ 生成包含工程文件、Gameplay、摄像机、控制、环境和视觉方向的原生 `.uproject`，而不是非 Unreal 的演示页面。
+- 🔍 通过 Pixel Streaming 在浏览器中查看运行中的游戏，迭代提示词，并在深入开发前检查生成结果。
+- 🚀 继续进入 Unreal Editor，进行 Blueprint、C++、资产、平台和引擎级定制，然后打包、下载或发布结果。
+
+如果希望快速从想法进入可玩的 Unreal 原型，可以试试 [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game)。
+
+## SeeleAI 开源插件
+
+- **[seele-scatter-regions](https://github.com/SeeleAI/seele-scatter-regions)** · ★ 6 · MIT · 未声明
+
+  SeeleAI 开源的 Unreal 区域散布工作流插件项目，展示程序化放置和面向美术的编辑器工作流如何围绕 Unreal 组织。
+- **[Seele-art-unreal](https://github.com/SeeleAI/Seele-art-unreal)** · ★ 2 · MIT · 未声明
+
+  SeeleAI 开源的 Unreal 美术与工作流插件项目，为美术和技术用户提供可复用 Unreal 美术生产工具及自动化模式的公开参考。
 
 ## 精选 AI 工具
 
@@ -85,15 +101,6 @@
 - **[awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** · ★ 726 · Apache-2.0 · 含 UE4/UE5 条目
 
   收集 67 个可移植的游戏开发 Skill，覆盖 Unreal、Unity、Godot 等引擎。其中的 Unreal 条目适合在 Agent 需要路由化、可复用 Skill 格式而不是一次性提示词时参考。
-
-## SeeleAI 项目
-
-- **[seele-scatter-regions](https://github.com/SeeleAI/seele-scatter-regions)** · ★ 6 · MIT · 未声明
-
-  SeeleAI 开源的 Unreal 区域散布工作流项目，具体实现、编辑器流程和集成方式请以仓库当前文档为准。
-- **[Seele-art-unreal](https://github.com/SeeleAI/Seele-art-unreal)** · ★ 2 · MIT · 未声明
-
-  SeeleAI 开源的 Unreal 美术与工作流项目，作为 Unreal 美术方向自动化的公开参考，采用前请先查看仓库文档确认当前范围和使用方式。
 
 ## 收录原则
 

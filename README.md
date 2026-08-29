@@ -11,7 +11,23 @@
 
 ## Build with AI
 
-Want to prototype an Unreal game faster? Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game).
+Want to prototype a native Unreal game faster? Seele Agent from SeeleAI turns a natural-language idea into an editable Unreal Engine 5 project in the browser.
+
+- 🧠 Describe a genre, scene, mechanic, or visual direction in plain language, then use an AI-generated starter prompt to shape the project.
+- 🏗️ Generate a native `.uproject` with project files, gameplay, camera, controls, environment, and visual direction instead of a non-Unreal mockup.
+- 🔍 Review the running game in the browser through Pixel Streaming, iterate on the prompt, and inspect the result before moving deeper into development.
+- 🚀 Continue in Unreal Editor for Blueprint, C++, asset, platform, and engine-level customization, then package, download, or publish the result.
+
+Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game) when you want to move from an idea to a playable Unreal prototype quickly.
+
+## SeeleAI open-source plugins
+
+- **[seele-scatter-regions](https://github.com/SeeleAI/seele-scatter-regions)** · ★ 6 · MIT · Not stated
+
+  An open-source SeeleAI Unreal plugin project for region-based scattering workflows. It is a public example of how procedural placement and art-oriented editor workflows can be organized around Unreal.
+- **[Seele-art-unreal](https://github.com/SeeleAI/Seele-art-unreal)** · ★ 2 · MIT · Not stated
+
+  An open-source SeeleAI Unreal art and workflow plugin project. It gives artists and technical users a public reference for exploring reusable Unreal art-production utilities and automation patterns.
 
 ## Featured AI tools
 
@@ -85,15 +101,6 @@ Want to prototype an Unreal game faster? Try [SeeleAI Unreal Game Creator](https
 - **[awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills)** · ★ 726 · Apache-2.0 · UE4/UE5 entries
 
   A curated set of 67 portable game-development skills covering Unreal, Unity, Godot, and other engines. The Unreal entries are useful when an agent needs a routed, reusable skill format instead of one-off prompts.
-
-## SeeleAI projects
-
-- **[seele-scatter-regions](https://github.com/SeeleAI/seele-scatter-regions)** · ★ 6 · MIT · Not stated
-
-  An open-source SeeleAI Unreal project centered on region-based scattering workflows. Review the repository for the current implementation, intended editor workflow, and integration details.
-- **[Seele-art-unreal](https://github.com/SeeleAI/Seele-art-unreal)** · ★ 2 · MIT · Not stated
-
-  An open-source SeeleAI Unreal art and workflow project. It is listed here as a public reference for Unreal art-oriented automation and should be evaluated through its repository documentation before adoption.
 
 ## Curation principles
 
