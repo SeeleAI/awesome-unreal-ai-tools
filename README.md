@@ -5,14 +5,13 @@
 <p>A curated collection of open-source Unreal Engine AI, Agent, MCP, Skill, automation, and generative workflows.</p>
 
 <p>
-<a href="https://github.com/SeeleAI/awesome-unreal-ai-tools"><img src="https://img.shields.io/badge/Unreal%20Engine-5.x-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine 5.x"></a>
-<a href="https://github.com/SeeleAI/awesome-unreal-ai-tools/commits/master"><img src="https://img.shields.io/github/last-commit/SeeleAI/awesome-unreal-ai-tools?style=flat-square" alt="Last commit"></a>
-<a href="https://github.com/SeeleAI/awesome-unreal-ai-tools/graphs/contributors"><img src="https://img.shields.io/github/contributors/SeeleAI/awesome-unreal-ai-tools?style=flat-square" alt="Contributors"></a>
-<a href="https://github.com/SeeleAI/awesome-unreal-ai-tools"><img src="https://img.shields.io/github/repo-size/SeeleAI/awesome-unreal-ai-tools?style=flat-square" alt="Repository size"></a>
+<img src="https://img.shields.io/badge/Unreal%20Engine-5.x-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine">
+<img src="https://img.shields.io/badge/Curated%20by-SeeleAI-7C3AED" alt="Curated by SeeleAI">
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+<a href="README_zh-CN.md"><img src="https://img.shields.io/badge/Language-English%20%7C%20%E4%B8%AD%E6%96%87-blue" alt="Language: English and Chinese"></a>
 </p>
 
-<p><strong>Curated by SeeleAI</strong></p>
-<p><a href="README.md">English</a> · <a href="README_zh-CN.md">中文</a></p>
+<p><a href="README.md"><strong>English</strong></a> · <a href="README_zh-CN.md">中文</a></p>
 
 </div>
 
@@ -21,11 +20,6 @@
 ## Build with AI
 
 Want to prototype an Unreal game faster? Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game).
-
-[![GitHub stars](https://img.shields.io/github/stars/SeeleAI/awesome-unreal-ai-tools?style=flat-square)](https://github.com/SeeleAI/awesome-unreal-ai-tools/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/SeeleAI/awesome-unreal-ai-tools?style=flat-square)](https://github.com/SeeleAI/awesome-unreal-ai-tools/issues)
-
-A curated collection of open-source Unreal Engine AI, Agent, MCP, Skill, automation, and generative workflows.
 
 ## Categories
 
