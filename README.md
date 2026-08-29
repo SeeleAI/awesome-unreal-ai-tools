@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Unreal%20Engine-5.x-0E1128?logo=unrealengine&logoColor=white" alt="Unreal Engine">
 <img src="https://img.shields.io/badge/Curated%20by-SeeleAI-7C3AED" alt="Curated by SeeleAI">
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
-<a href="README_zh-CN.md"><img src="https://img.shields.io/badge/Language-English%20%7C%20%E4%B8%AD%E6%96%87-blue" alt="Language: English and Chinese"></a>
 </p>
 
 <p><a href="README.md"><strong>English</strong></a> · <a href="README_zh-CN.md">中文</a></p>
@@ -20,6 +19,19 @@
 ## Build with AI
 
 Want to prototype an Unreal game faster? Try [SeeleAI Unreal Game Creator](https://www.seeles.ai/features/create/unreal-game).
+
+## Featured AI tools
+
+| Category | Project | What it provides |
+| --- | --- | --- |
+| Editor toolset | [VibeUE](https://github.com/kevinpbuckley/VibeUE) · MIT | MCP expansion and AI editor toolset for UE5.8+ |
+| Agent skills | [unreal-engine-skills](https://github.com/quodsoler/unreal-engine-skills) · MIT | 27 audited UE C++ skills for AI agents |
+| Claude integration | [UnrealClaude](https://github.com/Natfii/UnrealClaude) · MIT | Claude Code integration with UE5.7 context |
+| MCP server | [unreal-mcp](https://github.com/chongdashu/unreal-mcp) · license to verify | AI assistant control of Unreal through MCP |
+| MCP server | [UnrealMCP](https://github.com/kvick-games/UnrealMCP) · license to verify | MCP bridge for AI agents and Unreal |
+| MCP server | [Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) · license to verify | C++ Automation-based MCP server |
+| MCP server | [UE5-MCP](https://github.com/VedantRGosavi/UE5-MCP) · license to verify | MCP integration for Unreal Engine 5 |
+| Generative AI | [UnrealGenAISupport](https://github.com/prajwalshettydev/UnrealGenAISupport) · license to verify | UE5 plugin for LLM/GenAI models and MCP |
 
 ## Categories
 
